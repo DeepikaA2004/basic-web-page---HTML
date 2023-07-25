@@ -1,0 +1,41 @@
+nav {
+    background-color: dodgerblue;
+    height: 130;
+}
+
+nav a{
+    color: white;
+}
+
+section img {
+    padding: 5;
+    width: 1900;
+    height: 700;
+  }
+
+  section table{
+    width: 100;
+      
+  }
+  #Engineering {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #Engineering td, #Engineering th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #Engineering tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #Engineering tr:hover {background-color: #ddd;}
+  
+  #Engineering th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:lightpink;
+    color:white;
+  }
